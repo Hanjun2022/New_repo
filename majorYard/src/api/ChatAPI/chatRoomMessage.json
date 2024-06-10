@@ -1,0 +1,127 @@
+[
+    {
+        "pk": 0,
+        "message": [
+            {
+                "text": "오늘도 열심히 하자!",
+                "sender_name": "박민서",
+                "createdTime": "2024-06-07 09:15:00"
+            },
+            {
+                "text": "안녕! 어떤 과제 중이야?",
+                "sender_name": "박성진",
+                "createdTime": "2024-06-07 09:17:00"
+            },
+            {
+                "text": "오늘 일찍 끝내고 싶어!",
+                "sender_name": "박민서",
+                "createdTime": "2024-06-07 09:22:00"
+            },
+            {
+                "text": "그럼 오늘 점심 때 빨리 먹고 끝내자!",
+                "sender_name": "박성진",
+                "createdTime": "2024-06-07 09:25:00"
+            }
+        ]
+    },
+    {
+        "pk": 1,
+        "message": [
+            {
+                "text": "휴가 언제 끝나나요?",
+                "sender_name": "김묘수",
+                "createdTime": "2024-06-07 10:30:00"
+            },
+            {
+                "text": "내일 아침에 복귀할 거 같아요.",
+                "sender_name": "박성진",
+                "createdTime": "2024-06-07 10:32:00"
+            },
+            {
+                "text": "그럼 환영파티를 열어야겠네요!",
+                "sender_name": "김묘수",
+                "createdTime": "2024-06-07 10:35:00"
+            }
+        ]
+    },
+    {
+        "pk": 2,
+        "message": [
+            {
+                "text": "오늘 하루는 어땠어?",
+                "sender_name": "김두현",
+                "createdTime": "2024-06-07 11:45:00"
+            },
+            {
+                "text": "조금 바쁜 하루였어.",
+                "sender_name": "박성진",
+                "createdTime": "2024-06-07 11:47:00"
+            },
+            {
+                "text": "내일은 더 바쁠 거야.",
+                "sender_name": "김두현",
+                "createdTime": "2024-06-07 11:50:00"
+            }
+        ]
+    },
+    {
+        "pk": 3,
+        "message": [
+            {
+                "text": "이번 주말 계획 있어?",
+                "sender_name": "김재혁",
+                "createdTime": "2024-06-07 13:20:00"
+            },
+            {
+                "text": "친구들과 야외 활동을 할 거야.",
+                "sender_name": "박성진",
+                "createdTime": "2024-06-07 13:22:00"
+            }
+        ]
+    },
+    {
+        "pk": 4,
+        "message": [
+            {
+                "text": "점심은 뭐 먹을까?",
+                "sender_name": "전한준",
+                "createdTime": "2024-06-07 14:10:00"
+            },
+            {
+                "text": "치킨이나 피자 어때?",
+                "sender_name": "박성진",
+                "createdTime": "2024-06-07 14:12:00"
+            }
+        ]
+    },
+    {
+        "pk": 5,
+        "message": [
+            {
+                "text": "오늘 커피 한 잔 하실래요?",
+                "sender_name": "남구민",
+                "createdTime": "2024-06-07 15:00:00"
+            },
+            {
+                "text": "그래 좋아요. 카페로 갑시다!",
+                "sender_name": "박성진",
+                "createdTime": "2024-06-07 15:02:00"
+            }
+        ]
+    },
+    {
+        "pk": 6,
+        "message": [
+            {
+                "text": "이번 달 무슨 일정이 있나요?",
+                "sender_name": "장승우",
+                "createdTime": "2024-06-07 16:30:00"
+            },
+            {
+                "text": "회의와 프로젝트 기간이에요.",
+                "sender_name": "박성진",
+                "createdTime": "2024-06-07 16:32:00"
+            }
+        ]
+    }
+]

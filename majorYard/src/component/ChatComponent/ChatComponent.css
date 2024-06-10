@@ -1,0 +1,265 @@
+.chat-div {
+    display: block;
+    width: 70%;
+    height: 100%;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.search-header-div {
+    margin: 0 auto;
+    display: flex;
+    height: 100%;
+}
+
+.search-header-div .search-user-input {
+    margin: 20px;
+    margin-right: 0px;
+    margin-left: 25px;
+} 
+
+.search-header-div button {
+    height: 50px;
+    width: 100px;
+    margin: 0 auto;
+    margin-top: 20px;
+    font-size: 19px;
+    border-radius: 15%;
+    border: 1px solid rgb(113, 113, 113);
+    background-color: rgb(83, 120, 255);
+    color: white;
+}
+
+.search-header-div button:hover {
+    cursor: pointer;
+}
+
+.search-header-div img {
+    width: 70px;
+    height: 70px;
+    object-fit: cover;
+    border-radius: 100%;
+    margin: 10px;
+    margin-left: 20px;
+}
+
+.chat-user-name {
+    font-size: 30px;
+    margin-left: 10px;
+    width: 200px;
+}
+
+.chat-room-title-div {
+    margin: 0 auto;
+}
+
+.chat-room-title-div h1 {
+    margin-left: 40px;
+    color: blue;
+    display: block;
+}
+
+.chat-contents-div {
+    display: flex;
+    height: 730px;
+}
+
+.chat-sidebar-div {
+    background-color: rgb(239, 239, 239);
+    border-radius: 1%;
+    height: 100%;
+    width: 400px;
+    margin-left: 23px;
+    overflow: scroll;
+}
+
+.chat-sidebar-div a {
+    color: black;
+}
+
+.chat-sidebar-div a:hover {
+    cursor: pointer;
+}
+
+/* chat message div start --------------*/
+.chat-message-div {
+    margin-left: 10px;
+    width: 100%;
+    display: block;
+    background-color: rgb(227, 242, 255);
+    border-radius: 3%;
+    position: relative;
+    border: 1px solid rgb(215, 215, 215);
+}
+
+.chat-message-div .chat-message-card-header-div {
+    display: flex;
+    height: 80px;
+}
+
+.chat-message-div .chat-message-card-header-div img {
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    object-fit: cover;
+    margin: 15px;
+    margin-bottom: 0;
+}
+
+.chat-message-div .chat-message-card-header-div h3 {
+    font-size: 22px;
+    margin-top: 30px;
+    margin-left: 10px;
+    width: 200px;
+    margin-bottom: 0;
+}
+
+.chat-message-div hr {
+    width: 98%;
+    background-color: rgb(179, 179, 179);
+}
+
+/* chat message list div */
+.chat-messages-list-div {
+    height: 560px;
+    display: block;
+    overflow: scroll;
+    overflow-x: hidden;
+    scrollbar-width: none;
+}
+
+/* chat message card div */
+.ChatMessageCard-div {
+    display: block;
+    
+    width: 95%;
+    margin: 0 auto;
+}
+
+.ChatMessageCard-div h4 {
+    margin: 8px;
+    margin-left: 20px;
+}
+
+.ChatMessageCard-div p {
+    font-size: 15px;
+    margin: 0;
+    margin-left: 20px;
+}
+
+.myMessageDiv {
+    display: flex;
+}
+
+.my-message-card {
+    width: max-content;
+    background-color: rgb(255, 255, 255);
+    background-color: white;
+    padding: 8px;
+    border-radius: 5%;
+    margin-left: auto;
+}
+
+.my-message-card p{
+    margin-left: 0;
+}
+
+.my-message-card h4{
+    margin-left: 5px;
+}
+
+.your-message-card {
+    width: fit-content;
+    display: flex;    
+    margin: 4px;
+}
+
+
+.your-message-card img {
+    border-radius: 100%;
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    margin: 8px;
+    margin-left: 0px;
+}
+
+.name-text-separate p {
+    margin: 0;
+}
+
+.name-text-separate div{
+    background-color: white;
+    padding: 8px;
+    border-radius: 5%;
+}
+
+.name-text-separate div h4 {
+    margin: 0px;
+    padding: 5px
+}
+.name-text-separate div p {
+    margin: 0;
+}
+
+/* chat input div */
+.chat-message-input-div {
+    display: flex;
+    width: 95%;
+    margin: 0 auto;
+    position: relative;
+    margin-top: 10px;
+}
+
+.chat-message-input-div button {
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 20%;
+    border: 1px solid rgb(176, 176, 176);
+}
+
+.chat-message-input-div button:hover {
+    cursor: pointer;
+}
+
+/* chat message div -----------------------------------------------*/
+
+/* chat room card */
+.chatroom-divdiv {
+    display: block;
+}
+
+.chat-room-card-div {
+    display: flex;
+    width: 100%;
+}
+
+.chatroom-card-name-contents-div h3 {
+    display: flex;
+    margin-top: 27px;
+    margin-bottom: 0;
+}
+
+.chatroom-card-name-contents-div p {
+    margin-top: 5px;
+    font-size: 14px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    word-break: keep-all;
+    white-space: nowrap;
+    width: 150px;
+}
+
+.chatroom-divdiv hr {
+    background-color: rgb(164, 164, 164);
+    width: 85%;
+}
+
+.chat-room-card-div img {
+    height: 60px;
+    width: 60px;
+    border-radius: 100%;
+    margin: 15px;
+    margin-left: 30px;
+}

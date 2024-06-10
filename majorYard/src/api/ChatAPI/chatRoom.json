@@ -1,0 +1,30 @@
+[
+  {
+    "pk": 0,
+    "chatroom_name": "박민서"
+  },
+  {
+    "pk": 1,
+    "chatroom_name": "김묘수"
+  },
+  {
+    "pk": 2,
+    "chatroom_name": "김두현"
+  },
+  {
+    "pk": 3,
+    "chatroom_name": "김재혁"
+  },
+  {
+    "pk": 4,
+    "chatroom_name": "전한준"
+  },
+  {
+    "pk": 5,
+    "chatroom_name": "남구민"
+  },
+  {
+    "pk": 6,
+    "chatroom_name": "장승우"
+  }
+]
